@@ -1,5 +1,8 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+.navbar-default .navbar-brand {
+    color: #600024;
+}
 #jumbotron1{
     background-image: asset-url('jum.jpeg');
     background-size: cover;
